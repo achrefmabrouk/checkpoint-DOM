@@ -1,0 +1,47 @@
+header {
+    text-align: end;
+    width: 800PX;
+    color:black;
+    margin-bottom: 100px;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+
+.carte {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+.firstprod{
+text-align: center;
+}
+.prixunitaire{
+    margin-left: 110px;
+}
+.btn-plus{
+    margin-left: 70px;
+}
+#TP{
+    margin-left: 600px;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: end;
+}
+body{
+    background-image: url('./background1.jpg') ;
+}
+.prixarticle{
+    margin-left: 113px;
+}
+#total-price{  
+    font-size: x-large;
+    font-weight: bold;
+    text-align: end;
+}
+#TD{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: end;
+}
